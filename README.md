@@ -23,5 +23,12 @@ Aim for the completion of the objectives first, then see if you have time for th
 The challenge shouldn't take much more than around 10 hours.
 We will of course only use your work with your permission and you are free to use it for your portfolio.
 
+**Available data:**
+
+The available data consist of 3 files: league.json, squads.json, actions.json. As the filename implies, the data is encoded as JSON.
+
+*league.json*: A league object and within that, each of the rounds in the league ('rounds' attributes).
+*squads.json*: A list of squads in the league, each squad furthermore contains information about each player in the squad.
+*actions.json*: A list of actions for a set of players for the first matchday of the league.
 ___
 *(1) http://en.wikipedia.org/wiki/Second_screen*
