@@ -27,11 +27,12 @@ We will of course only use your work with your permission and you are free to us
 
 The available data consist of 3 files: league.json, squads.json, actions.json. As the filename implies, the data is encoded as JSON.
 
-*league.json*: A league object and within that, each of the rounds in the league ('rounds' attributes).
-*squads.json*: A list of squads in the league, each squad furthermore contains information about each player in the squad.
-*actions.json*: A list of actions for a set of players for the first matchday of the league.
+- *league.json*: A league object and within that, each of the rounds in the league ('rounds' attributes).
+- *squads.json*: A list of squads in the league, each squad furthermore contains information about each player in the squad.
+- *actions.json*: A list of actions for a set of players for the first matchday of the league.
 
 **Questions**:
+
 For questions, feel free to join us on hipchat: https://www.hipchat.com/gWQVrAC5l
 If nobody is in there, just ask your question and we'll answer when we're back online.
 ___
