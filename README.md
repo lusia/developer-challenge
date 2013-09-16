@@ -36,6 +36,7 @@ First of all, the main premise of our game, is that each football player earn po
 
 The data is structured as a list of events in the following form (annontated with comments here for clarity):
 
+```json
 [
     { "action_name" : "successful_pass",        // The type of action.
         "id" : "9392",                          // A unique id across all events.
@@ -57,10 +58,11 @@ The data is structured as a list of events in the following form (annontated wit
         "player_name" : "Christian Clemens",    // Name of the player.
         "squad" : "FC Schalke 04",              // Name of the squad.
         "timestamp" : 1376241690000,            // Timestamp of the event (UNIX millisecond)
-        "total_points" : 1500                   // Total points awarded for all the occurences of an action.
+        "total_points" : 1500                   // Total points awarded for all the occurences of an action. (See more below).
       }
 ...
 ]
+```
 
 Pay special attention to the "occurences" field. If the occurences field is larger than 1, it means the event is a summarization of multiple similar actions. E.g. the above action is actually 3 sucessfull passes by the same player, each giving 500 points, totalling to 1500 points.
 
