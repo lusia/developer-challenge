@@ -1,16 +1,14 @@
 [ { "action_name" : "successful_pass",
     "id" : "9392",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 93,
     "occurences" : 3,
     "period" : "SecondHalf",
@@ -22,17 +20,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9352",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 88,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -44,17 +40,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9322",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 85,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -66,17 +60,15 @@
   },
   { "action_name" : "successful_duel",
     "id" : "9305",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 85,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -88,17 +80,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9292",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 84,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -110,17 +100,15 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "9205",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 74,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -132,17 +120,15 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "9182",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 72,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -154,17 +140,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9156",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 70,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -176,17 +160,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9137",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 69,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -198,17 +180,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9115",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 66,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -220,17 +200,15 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "9093",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 64,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -242,17 +220,15 @@
   },
   { "action_name" : "successful_duel",
     "id" : "9094",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 64,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -264,17 +240,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9095",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 64,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -286,17 +260,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9055",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 60,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -308,17 +280,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "9047",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 59,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -330,17 +300,15 @@
   },
   { "action_name" : "dribble_won",
     "id" : "8945",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 53,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -352,17 +320,15 @@
   },
   { "action_name" : "successful_duel",
     "id" : "8946",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 53,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -374,17 +340,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8930",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 50,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -396,17 +360,15 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "8897",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 49,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -418,17 +380,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8864",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 47,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -440,17 +400,15 @@
   },
   { "action_name" : "dribble_won",
     "id" : "8832",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -462,17 +420,15 @@
   },
   { "action_name" : "successful_duel",
     "id" : "8833",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -484,17 +440,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8834",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -506,17 +460,15 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "8835",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -528,17 +480,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8813",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 46,
     "occurences" : 4,
     "period" : "FirstHalf",
@@ -550,17 +500,15 @@
   },
   { "action_name" : "successful_duel",
     "id" : "8796",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 45,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -572,17 +520,15 @@
   },
   { "action_name" : "successful_duel",
     "id" : "8771",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 41,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -594,17 +540,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8755",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -616,17 +560,15 @@
   },
   { "action_name" : "long_pass",
     "id" : "8724",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 38,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -638,17 +580,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8725",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 38,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -660,17 +600,15 @@
   },
   { "action_name" : "long_pass",
     "id" : "8678",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 34,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -682,17 +620,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8679",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 34,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -704,17 +640,15 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "8593",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 27,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -726,17 +660,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8594",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 27,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -748,17 +680,15 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "8563",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 24,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -770,17 +700,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8502",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 19,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -792,17 +720,15 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8476",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 15,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -814,17 +740,15 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "8422",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -836,17 +760,15 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "8285",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 2,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -858,17 +780,15 @@
   },
   { "action_name" : "starting_11",
     "id" : "8241",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
-    "match" : {
-        "away_score" : 3,
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
+    "match" : { "away_score" : 3,
         "away_squad" : "Hamburger SV",
         "home_score" : 3,
         "home_squad" : "FC Schalke 04",
         "played_on" : 1376235000000
-    },
+      },
     "minutes" : 0,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -880,10 +800,9 @@
   },
   { "action_name" : "match_lost",
     "id" : "8231",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 93,
     "occurences" : 1,
@@ -896,10 +815,9 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "8115",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 83,
     "occurences" : 1,
@@ -912,10 +830,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "8101",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 82,
     "occurences" : 1,
@@ -928,10 +845,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8054",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 80,
     "occurences" : 2,
@@ -944,10 +860,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "8037",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 78,
     "occurences" : 1,
@@ -960,10 +875,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8007",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 78,
     "occurences" : 1,
@@ -976,10 +890,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "8000",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 77,
     "occurences" : 1,
@@ -992,10 +905,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "7965",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 73,
     "occurences" : 1,
@@ -1008,10 +920,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "7959",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 73,
     "occurences" : 1,
@@ -1024,10 +935,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "7949",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3825",
     "minutes" : 70,
     "occurences" : 1,
@@ -1040,10 +950,9 @@
   },
   { "action_name" : "clean_sheet",
     "id" : "7152",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 94,
     "occurences" : 1,
@@ -1056,10 +965,9 @@
   },
   { "action_name" : "match_won",
     "id" : "7153",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 94,
     "occurences" : 1,
@@ -1072,10 +980,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "6791",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 60,
     "occurences" : 1,
@@ -1088,10 +995,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6750",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 56,
     "occurences" : 1,
@@ -1104,10 +1010,9 @@
   },
   { "action_name" : "cross_completed",
     "id" : "6715",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 50,
     "occurences" : 1,
@@ -1120,10 +1025,9 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "6716",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 50,
     "occurences" : 1,
@@ -1136,10 +1040,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "6677",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 46,
     "occurences" : 1,
@@ -1152,10 +1055,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6656",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 44,
     "occurences" : 1,
@@ -1168,10 +1070,9 @@
   },
   { "action_name" : "cross_completed",
     "id" : "6635",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 41,
     "occurences" : 1,
@@ -1184,10 +1085,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6551",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 30,
     "occurences" : 4,
@@ -1200,10 +1100,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6510",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 24,
     "occurences" : 1,
@@ -1216,10 +1115,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6476",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 19,
     "occurences" : 1,
@@ -1232,10 +1130,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6465",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 19,
     "occurences" : 2,
@@ -1248,10 +1145,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6444",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 17,
     "occurences" : 1,
@@ -1264,10 +1160,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6434",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 16,
     "occurences" : 3,
@@ -1280,10 +1175,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "6411",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 14,
     "occurences" : 1,
@@ -1296,10 +1190,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "6404",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 12,
     "occurences" : 1,
@@ -1312,10 +1205,9 @@
   },
   { "action_name" : "interception",
     "id" : "6339",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 7,
     "occurences" : 1,
@@ -1328,10 +1220,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6340",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 7,
     "occurences" : 1,
@@ -1344,10 +1235,9 @@
   },
   { "action_name" : "starting_11",
     "id" : "6295",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3821",
     "minutes" : 0,
     "occurences" : 1,
@@ -1360,10 +1250,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "6264",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 92,
     "occurences" : 1,
@@ -1376,10 +1265,9 @@
   },
   { "action_name" : "match_won",
     "id" : "6191",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 94,
     "occurences" : 1,
@@ -1392,10 +1280,9 @@
   },
   { "action_name" : "match_lost",
     "id" : "6251",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 93,
     "occurences" : 1,
@@ -1408,10 +1295,9 @@
   },
   { "action_name" : "match_lost",
     "id" : "6262",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 93,
     "occurences" : 1,
@@ -1424,10 +1310,9 @@
   },
   { "action_name" : "interception",
     "id" : "6170",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 93,
     "occurences" : 1,
@@ -1440,10 +1325,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "6137",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 91,
     "occurences" : 1,
@@ -1456,10 +1340,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "6138",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 91,
     "occurences" : 1,
@@ -1472,10 +1355,9 @@
   },
   { "action_name" : "offside",
     "id" : "6014",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 90,
     "occurences" : 1,
@@ -1488,10 +1370,9 @@
   },
   { "action_name" : "match_won",
     "id" : "5977",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 91,
     "occurences" : 1,
@@ -1504,10 +1385,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "5856",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 87,
     "occurences" : 2,
@@ -1520,10 +1400,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "5798",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 86,
     "occurences" : 1,
@@ -1536,10 +1415,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "5799",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 86,
     "occurences" : 1,
@@ -1552,10 +1430,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5800",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 86,
     "occurences" : 2,
@@ -1568,10 +1445,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "5769",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 86,
     "occurences" : 1,
@@ -1584,10 +1460,9 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "5770",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 86,
     "occurences" : 1,
@@ -1600,10 +1475,9 @@
   },
   { "action_name" : "goal",
     "id" : "5771",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 86,
     "occurences" : 1,
@@ -1616,10 +1490,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "5674",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 84,
     "occurences" : 1,
@@ -1632,10 +1505,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "5680",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 84,
     "occurences" : 1,
@@ -1648,10 +1520,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5625",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 84,
     "occurences" : 1,
@@ -1664,10 +1535,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5536",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 82,
     "occurences" : 2,
@@ -1680,10 +1550,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5538",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 82,
     "occurences" : 1,
@@ -1696,10 +1565,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5515",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 82,
     "occurences" : 1,
@@ -1712,10 +1580,9 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "5494",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 81,
     "occurences" : 1,
@@ -1728,10 +1595,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5466",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 80,
     "occurences" : 1,
@@ -1744,10 +1610,9 @@
   },
   { "action_name" : "interception",
     "id" : "5402",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 79,
     "occurences" : 1,
@@ -1760,10 +1625,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5403",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 79,
     "occurences" : 1,
@@ -1776,10 +1640,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5387",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 77,
     "occurences" : 1,
@@ -1792,10 +1655,9 @@
   },
   { "action_name" : "assist",
     "id" : "5373",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 79,
     "occurences" : 1,
@@ -1808,10 +1670,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "5374",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 79,
     "occurences" : 1,
@@ -1824,10 +1685,9 @@
   },
   { "action_name" : "big_chance_created",
     "id" : "5375",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 79,
     "occurences" : 1,
@@ -1840,10 +1700,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5346",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 79,
     "occurences" : 2,
@@ -1856,10 +1715,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5307",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 77,
     "occurences" : 1,
@@ -1872,10 +1730,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5235",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 77,
     "occurences" : 1,
@@ -1888,10 +1745,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5209",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 75,
     "occurences" : 2,
@@ -1904,10 +1760,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5161",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 75,
     "occurences" : 1,
@@ -1920,10 +1775,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5136",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 74,
     "occurences" : 1,
@@ -1936,10 +1790,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5125",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 73,
     "occurences" : 1,
@@ -1952,10 +1805,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "5043",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 73,
     "occurences" : 1,
@@ -1968,10 +1820,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "5044",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 73,
     "occurences" : 1,
@@ -1984,10 +1835,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "5039",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 72,
     "occurences" : 1,
@@ -2000,10 +1850,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4995",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 72,
     "occurences" : 2,
@@ -2016,10 +1865,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4987",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 71,
     "occurences" : 1,
@@ -2032,10 +1880,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4975",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 70,
     "occurences" : 1,
@@ -2048,10 +1895,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4973",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 71,
     "occurences" : 2,
@@ -2064,10 +1910,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4952",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 71,
     "occurences" : 1,
@@ -2080,10 +1925,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "4866",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 68,
     "occurences" : 1,
@@ -2096,10 +1940,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "4867",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 68,
     "occurences" : 3,
@@ -2112,10 +1955,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "4868",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 68,
     "occurences" : 1,
@@ -2128,10 +1970,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4869",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 68,
     "occurences" : 1,
@@ -2144,10 +1985,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "4861",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 69,
     "occurences" : 1,
@@ -2160,10 +2000,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "4774",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 68,
     "occurences" : 1,
@@ -2176,10 +2015,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4775",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 68,
     "occurences" : 1,
@@ -2192,10 +2030,9 @@
   },
   { "action_name" : "blocked_shot",
     "id" : "4747",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 66,
     "occurences" : 1,
@@ -2208,10 +2045,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "4739",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 66,
     "occurences" : 1,
@@ -2224,10 +2060,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4630",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 64,
     "occurences" : 1,
@@ -2240,10 +2075,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4564",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 63,
     "occurences" : 3,
@@ -2256,10 +2090,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "4528",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 61,
     "occurences" : 1,
@@ -2272,10 +2105,9 @@
   },
   { "action_name" : "cross_completed",
     "id" : "4464",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 61,
     "occurences" : 1,
@@ -2288,10 +2120,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4457",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 61,
     "occurences" : 2,
@@ -2304,10 +2135,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "4433",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 59,
     "occurences" : 1,
@@ -2320,10 +2150,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "4415",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 58,
     "occurences" : 1,
@@ -2336,10 +2165,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "4416",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 58,
     "occurences" : 1,
@@ -2352,10 +2180,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4417",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 58,
     "occurences" : 1,
@@ -2368,10 +2195,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4379",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 59,
     "occurences" : 1,
@@ -2384,10 +2210,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "4311",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 57,
     "occurences" : 1,
@@ -2400,10 +2225,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4297",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 58,
     "occurences" : 1,
@@ -2416,10 +2240,9 @@
   },
   { "action_name" : "interception",
     "id" : "4277",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 56,
     "occurences" : 1,
@@ -2432,10 +2255,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4278",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 56,
     "occurences" : 2,
@@ -2448,10 +2270,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4259",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 57,
     "occurences" : 1,
@@ -2464,10 +2285,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "4231",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 55,
     "occurences" : 1,
@@ -2480,10 +2300,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4232",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 55,
     "occurences" : 1,
@@ -2496,10 +2315,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4211",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 56,
     "occurences" : 1,
@@ -2512,10 +2330,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "4162",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 54,
     "occurences" : 1,
@@ -2528,10 +2345,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "4087",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 54,
     "occurences" : 2,
@@ -2544,10 +2360,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "4017",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 51,
     "occurences" : 1,
@@ -2560,10 +2375,9 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "4004",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 52,
     "occurences" : 1,
@@ -2576,10 +2390,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "3960",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 52,
     "occurences" : 1,
@@ -2592,10 +2405,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "3938",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 51,
     "occurences" : 1,
@@ -2608,10 +2420,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3939",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 51,
     "occurences" : 1,
@@ -2624,10 +2435,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3934",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 52,
     "occurences" : 1,
@@ -2640,10 +2450,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3921",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 50,
     "occurences" : 1,
@@ -2656,10 +2465,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3889",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 51,
     "occurences" : 1,
@@ -2672,10 +2480,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3842",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 49,
     "occurences" : 1,
@@ -2688,10 +2495,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3843",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 49,
     "occurences" : 2,
@@ -2704,10 +2510,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "3758",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 47,
     "occurences" : 1,
@@ -2720,10 +2525,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3759",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 47,
     "occurences" : 2,
@@ -2736,10 +2540,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3733",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 47,
     "occurences" : 1,
@@ -2752,10 +2555,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "3700",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 46,
     "occurences" : 1,
@@ -2768,10 +2570,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "3677",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 46,
     "occurences" : 1,
@@ -2784,10 +2585,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "3661",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 46,
     "occurences" : 1,
@@ -2800,10 +2600,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3662",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 46,
     "occurences" : 1,
@@ -2816,10 +2615,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "3556",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 47,
     "occurences" : 1,
@@ -2832,10 +2630,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "3557",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 47,
     "occurences" : 2,
@@ -2848,10 +2645,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3558",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 47,
     "occurences" : 1,
@@ -2864,10 +2660,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "3470",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 44,
     "occurences" : 1,
@@ -2880,10 +2675,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "3471",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 44,
     "occurences" : 1,
@@ -2896,10 +2690,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3472",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 44,
     "occurences" : 1,
@@ -2912,10 +2705,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "3432",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 43,
     "occurences" : 1,
@@ -2928,10 +2720,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3433",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 43,
     "occurences" : 1,
@@ -2944,10 +2735,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3406",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 44,
     "occurences" : 1,
@@ -2960,10 +2750,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3381",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 43,
     "occurences" : 1,
@@ -2976,10 +2765,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3341",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 42,
     "occurences" : 1,
@@ -2992,10 +2780,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3305",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 42,
     "occurences" : 1,
@@ -3008,10 +2795,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3281",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 40,
     "occurences" : 1,
@@ -3024,10 +2810,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "3252",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 40,
     "occurences" : 1,
@@ -3040,10 +2825,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3253",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 40,
     "occurences" : 1,
@@ -3056,10 +2840,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3254",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 40,
     "occurences" : 1,
@@ -3072,10 +2855,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "3200",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 40,
     "occurences" : 1,
@@ -3088,10 +2870,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3182",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 40,
     "occurences" : 1,
@@ -3104,10 +2885,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3162",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 39,
     "occurences" : 1,
@@ -3120,10 +2900,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3136",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 39,
     "occurences" : 1,
@@ -3136,10 +2915,9 @@
   },
   { "action_name" : "blocked_shot",
     "id" : "3075",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 39,
     "occurences" : 1,
@@ -3152,10 +2930,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3056",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 38,
     "occurences" : 1,
@@ -3168,10 +2945,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3034",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 37,
     "occurences" : 1,
@@ -3184,10 +2960,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "3003",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 38,
     "occurences" : 1,
@@ -3200,10 +2975,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "3004",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 38,
     "occurences" : 1,
@@ -3216,10 +2990,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "3005",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 38,
     "occurences" : 1,
@@ -3232,10 +3005,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "2997",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 37,
     "occurences" : 1,
@@ -3248,10 +3020,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2990",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 35,
     "occurences" : 1,
@@ -3264,10 +3035,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2956",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 36,
     "occurences" : 1,
@@ -3280,10 +3050,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "2950",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 35,
     "occurences" : 1,
@@ -3296,10 +3065,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2934",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 36,
     "occurences" : 1,
@@ -3312,10 +3080,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "2914",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 35,
     "occurences" : 1,
@@ -3328,10 +3095,9 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "2915",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 35,
     "occurences" : 1,
@@ -3344,10 +3110,9 @@
   },
   { "action_name" : "goal",
     "id" : "2916",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 35,
     "occurences" : 1,
@@ -3360,10 +3125,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "2873",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 35,
     "occurences" : 1,
@@ -3376,10 +3140,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "2853",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 34,
     "occurences" : 1,
@@ -3392,10 +3155,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2854",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 34,
     "occurences" : 1,
@@ -3408,10 +3170,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2837",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 33,
     "occurences" : 1,
@@ -3424,10 +3185,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "2764",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 34,
     "occurences" : 1,
@@ -3440,10 +3200,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2738",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 32,
     "occurences" : 4,
@@ -3456,10 +3215,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2692",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 33,
     "occurences" : 1,
@@ -3472,10 +3230,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2645",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 32,
     "occurences" : 2,
@@ -3488,10 +3245,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "2637",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 31,
     "occurences" : 1,
@@ -3504,10 +3260,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2638",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 31,
     "occurences" : 2,
@@ -3520,10 +3275,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2556",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 29,
     "occurences" : 1,
@@ -3536,10 +3290,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "2538",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 29,
     "occurences" : 1,
@@ -3552,10 +3305,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2459",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 26,
     "occurences" : 1,
@@ -3568,10 +3320,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "2424",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 27,
     "occurences" : 1,
@@ -3584,10 +3335,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "2425",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 27,
     "occurences" : 1,
@@ -3600,10 +3350,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "2413",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 27,
     "occurences" : 1,
@@ -3616,10 +3365,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2414",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 27,
     "occurences" : 1,
@@ -3632,10 +3380,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "2401",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 26,
     "occurences" : 1,
@@ -3648,10 +3395,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "2402",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 26,
     "occurences" : 1,
@@ -3664,10 +3410,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2403",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 26,
     "occurences" : 1,
@@ -3680,10 +3425,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2391",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 25,
     "occurences" : 1,
@@ -3696,10 +3440,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "2354",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 24,
     "occurences" : 1,
@@ -3712,10 +3455,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2266",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 24,
     "occurences" : 1,
@@ -3728,10 +3470,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2200",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 23,
     "occurences" : 1,
@@ -3744,10 +3485,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "2169",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 22,
     "occurences" : 1,
@@ -3760,10 +3500,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2130",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 22,
     "occurences" : 1,
@@ -3776,10 +3515,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2007",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 18,
     "occurences" : 1,
@@ -3792,10 +3530,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "1931",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 17,
     "occurences" : 1,
@@ -3808,10 +3545,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1903",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 18,
     "occurences" : 3,
@@ -3824,10 +3560,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "1845",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 16,
     "occurences" : 1,
@@ -3840,10 +3575,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1846",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 16,
     "occurences" : 1,
@@ -3856,10 +3590,9 @@
   },
   { "action_name" : "interception",
     "id" : "1813",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 15,
     "occurences" : 1,
@@ -3872,10 +3605,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1814",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 15,
     "occurences" : 2,
@@ -3888,10 +3620,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1769",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 14,
     "occurences" : 1,
@@ -3904,10 +3635,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "1735",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 15,
     "occurences" : 1,
@@ -3920,10 +3650,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "1736",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 15,
     "occurences" : 1,
@@ -3936,10 +3665,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1737",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 15,
     "occurences" : 1,
@@ -3952,10 +3680,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1732",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 13,
     "occurences" : 1,
@@ -3968,10 +3695,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "1689",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 13,
     "occurences" : 1,
@@ -3984,10 +3710,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1690",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 13,
     "occurences" : 3,
@@ -4000,10 +3725,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "1649",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 13,
     "occurences" : 1,
@@ -4016,10 +3740,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1650",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 13,
     "occurences" : 2,
@@ -4032,10 +3755,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1642",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 12,
     "occurences" : 1,
@@ -4048,10 +3770,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1589",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 10,
     "occurences" : 1,
@@ -4064,10 +3785,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1558",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 11,
     "occurences" : 1,
@@ -4080,10 +3800,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "1553",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 10,
     "occurences" : 1,
@@ -4096,10 +3815,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "1505",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 9,
     "occurences" : 1,
@@ -4112,10 +3830,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "1506",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 9,
     "occurences" : 1,
@@ -4128,10 +3845,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "1507",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 9,
     "occurences" : 1,
@@ -4144,10 +3860,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1508",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 9,
     "occurences" : 2,
@@ -4160,10 +3875,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1479",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 9,
     "occurences" : 3,
@@ -4176,10 +3890,9 @@
   },
   { "action_name" : "interception",
     "id" : "1452",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 9,
     "occurences" : 1,
@@ -4192,10 +3905,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "1392",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 6,
     "occurences" : 1,
@@ -4208,10 +3920,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1369",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 7,
     "occurences" : 1,
@@ -4224,10 +3935,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1328",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 6,
     "occurences" : 3,
@@ -4240,10 +3950,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "1296",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 6,
     "occurences" : 1,
@@ -4256,10 +3965,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "1297",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 6,
     "occurences" : 2,
@@ -4272,10 +3980,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1298",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 6,
     "occurences" : 3,
@@ -4288,10 +3995,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1233",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 4,
     "occurences" : 1,
@@ -4304,10 +4010,9 @@
   },
   { "action_name" : "cross_completed",
     "id" : "1201",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 3,
     "occurences" : 1,
@@ -4320,10 +4025,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1202",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 3,
     "occurences" : 1,
@@ -4336,10 +4040,9 @@
   },
   { "action_name" : "aerial_duel_won",
     "id" : "1175",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 3,
     "occurences" : 1,
@@ -4352,10 +4055,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "1110",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 2,
     "occurences" : 1,
@@ -4368,10 +4070,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "1111",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 2,
     "occurences" : 1,
@@ -4384,10 +4085,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "1112",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 2,
     "occurences" : 1,
@@ -4400,10 +4100,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1113",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 2,
     "occurences" : 1,
@@ -4416,10 +4115,9 @@
   },
   { "action_name" : "starting_11",
     "id" : "1106",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 1,
     "occurences" : 1,
@@ -4432,10 +4130,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "1107",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3822",
     "minutes" : 1,
     "occurences" : 1,
@@ -4448,10 +4145,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "1072",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 1,
     "occurences" : 2,
@@ -4464,10 +4160,9 @@
   },
   { "action_name" : "starting_11",
     "id" : "1064",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3823",
     "minutes" : 0,
     "occurences" : 1,
@@ -4480,10 +4175,9 @@
   },
   { "action_name" : "starting_11",
     "id" : "1029",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3819",
     "minutes" : 0,
     "occurences" : 1,
@@ -4496,10 +4190,9 @@
   },
   { "action_name" : "starting_11",
     "id" : "1008",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3820",
     "minutes" : 1,
     "occurences" : 1,
@@ -4512,10 +4205,9 @@
   },
   { "action_name" : "match_won",
     "id" : "981",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 93,
     "occurences" : 1,
@@ -4528,10 +4220,9 @@
   },
   { "action_name" : "match_won",
     "id" : "973",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 93,
     "occurences" : 1,
@@ -4544,10 +4235,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "965",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 93,
     "occurences" : 1,
@@ -4560,10 +4250,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "947",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 92,
     "occurences" : 2,
@@ -4576,10 +4265,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "941",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 92,
     "occurences" : 2,
@@ -4592,10 +4280,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "936",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 90,
     "occurences" : 3,
@@ -4608,10 +4295,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "930",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 90,
     "occurences" : 1,
@@ -4624,10 +4310,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "920",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 88,
     "occurences" : 2,
@@ -4640,10 +4325,9 @@
   },
   { "action_name" : "interception",
     "id" : "904",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 86,
     "occurences" : 1,
@@ -4656,10 +4340,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "905",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 86,
     "occurences" : 1,
@@ -4672,10 +4355,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "892",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 85,
     "occurences" : 1,
@@ -4688,10 +4370,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "893",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 85,
     "occurences" : 1,
@@ -4704,10 +4385,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "894",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 85,
     "occurences" : 1,
@@ -4720,10 +4400,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "877",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 84,
     "occurences" : 1,
@@ -4736,10 +4415,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "878",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 84,
     "occurences" : 1,
@@ -4752,10 +4430,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "879",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 84,
     "occurences" : 1,
@@ -4768,10 +4445,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "862",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 83,
     "occurences" : 1,
@@ -4784,10 +4460,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "863",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 83,
     "occurences" : 1,
@@ -4800,10 +4475,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "864",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 83,
     "occurences" : 2,
@@ -4816,10 +4490,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "846",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 81,
     "occurences" : 1,
@@ -4832,10 +4505,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "818",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 79,
     "occurences" : 2,
@@ -4848,10 +4520,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "786",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 76,
     "occurences" : 1,
@@ -4864,10 +4535,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "762",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 73,
     "occurences" : 1,
@@ -4880,10 +4550,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "763",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 73,
     "occurences" : 2,
@@ -4896,10 +4565,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "726",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 69,
     "occurences" : 1,
@@ -4912,10 +4580,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "719",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 69,
     "occurences" : 1,
@@ -4928,10 +4595,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "710",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 67,
     "occurences" : 1,
@@ -4944,10 +4610,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "711",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 67,
     "occurences" : 2,
@@ -4960,10 +4625,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "704",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 67,
     "occurences" : 1,
@@ -4976,10 +4640,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "693",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 66,
     "occurences" : 1,
@@ -4992,10 +4655,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "683",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 65,
     "occurences" : 5,
@@ -5008,10 +4670,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "668",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 63,
     "occurences" : 1,
@@ -5024,10 +4685,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "669",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 63,
     "occurences" : 2,
@@ -5040,10 +4700,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "639",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 60,
     "occurences" : 5,
@@ -5056,10 +4715,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "624",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 60,
     "occurences" : 1,
@@ -5072,10 +4730,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "625",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 60,
     "occurences" : 1,
@@ -5088,10 +4745,9 @@
   },
   { "action_name" : "attempt_saved",
     "id" : "609",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 57,
     "occurences" : 1,
@@ -5104,10 +4760,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "579",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 53,
     "occurences" : 3,
@@ -5120,10 +4775,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "580",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 53,
     "occurences" : 2,
@@ -5136,10 +4790,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "563",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 52,
     "occurences" : 2,
@@ -5152,10 +4805,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "559",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 52,
     "occurences" : 1,
@@ -5168,10 +4820,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "536",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 50,
     "occurences" : 2,
@@ -5184,10 +4835,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "537",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 50,
     "occurences" : 2,
@@ -5200,10 +4850,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "538",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 50,
     "occurences" : 2,
@@ -5216,10 +4865,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "530",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 50,
     "occurences" : 4,
@@ -5232,10 +4880,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "506",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 48,
     "occurences" : 1,
@@ -5248,10 +4895,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "487",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 47,
     "occurences" : 1,
@@ -5264,10 +4910,9 @@
   },
   { "action_name" : "attempt_saved",
     "id" : "463",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 46,
     "occurences" : 1,
@@ -5280,10 +4925,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "450",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 44,
     "occurences" : 1,
@@ -5296,10 +4940,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "451",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 44,
     "occurences" : 1,
@@ -5312,10 +4955,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "452",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 44,
     "occurences" : 1,
@@ -5328,10 +4970,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "446",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 43,
     "occurences" : 1,
@@ -5344,10 +4985,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "447",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 43,
     "occurences" : 1,
@@ -5360,10 +5000,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "439",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 43,
     "occurences" : 1,
@@ -5376,10 +5015,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "436",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 42,
     "occurences" : 1,
@@ -5392,10 +5030,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "437",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 42,
     "occurences" : 1,
@@ -5408,10 +5045,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "413",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 40,
     "occurences" : 1,
@@ -5424,10 +5060,9 @@
   },
   { "action_name" : "goal_against_team",
     "id" : "406",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 40,
     "occurences" : 1,
@@ -5440,10 +5075,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "386",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 39,
     "occurences" : 2,
@@ -5456,10 +5090,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "387",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 39,
     "occurences" : 2,
@@ -5472,10 +5105,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "388",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 39,
     "occurences" : 2,
@@ -5488,10 +5120,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "373",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 38,
     "occurences" : 3,
@@ -5504,10 +5135,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "352",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 36,
     "occurences" : 1,
@@ -5520,10 +5150,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "338",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 35,
     "occurences" : 4,
@@ -5536,10 +5165,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "328",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 34,
     "occurences" : 2,
@@ -5552,10 +5180,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "307",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 34,
     "occurences" : 1,
@@ -5568,10 +5195,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "308",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 34,
     "occurences" : 1,
@@ -5584,10 +5210,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "299",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 32,
     "occurences" : 1,
@@ -5600,10 +5225,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "277",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 30,
     "occurences" : 1,
@@ -5616,10 +5240,9 @@
   },
   { "action_name" : "attempt_saved",
     "id" : "268",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 30,
     "occurences" : 1,
@@ -5632,10 +5255,9 @@
   },
   { "action_name" : "defensive_clearance",
     "id" : "241",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 30,
     "occurences" : 1,
@@ -5648,10 +5270,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "242",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 30,
     "occurences" : 4,
@@ -5664,10 +5285,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "224",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 25,
     "occurences" : 2,
@@ -5680,10 +5300,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "219",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 25,
     "occurences" : 1,
@@ -5696,10 +5315,9 @@
   },
   { "action_name" : "dribble_won",
     "id" : "205",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 24,
     "occurences" : 2,
@@ -5712,10 +5330,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "206",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 24,
     "occurences" : 1,
@@ -5728,10 +5345,9 @@
   },
   { "action_name" : "successful_duel",
     "id" : "207",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 24,
     "occurences" : 2,
@@ -5744,10 +5360,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "208",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 24,
     "occurences" : 3,
@@ -5760,10 +5375,9 @@
   },
   { "action_name" : "attempt_saved",
     "id" : "199",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 24,
     "occurences" : 1,
@@ -5776,10 +5390,9 @@
   },
   { "action_name" : "offside",
     "id" : "194",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 23,
     "occurences" : 1,
@@ -5792,10 +5405,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "195",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 23,
     "occurences" : 2,
@@ -5808,10 +5420,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "165",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 21,
     "occurences" : 1,
@@ -5824,10 +5435,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "162",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 20,
     "occurences" : 1,
@@ -5840,10 +5450,9 @@
   },
   { "action_name" : "shot_on_target",
     "id" : "156",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 20,
     "occurences" : 1,
@@ -5856,10 +5465,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "148",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 19,
     "occurences" : 1,
@@ -5872,10 +5480,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "138",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 19,
     "occurences" : 3,
@@ -5888,10 +5495,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "130",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 19,
     "occurences" : 1,
@@ -5904,10 +5510,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "131",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 19,
     "occurences" : 2,
@@ -5920,10 +5525,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "103",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 16,
     "occurences" : 1,
@@ -5936,10 +5540,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "95",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 15,
     "occurences" : 1,
@@ -5952,10 +5555,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "76",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 12,
     "occurences" : 1,
@@ -5968,10 +5570,9 @@
   },
   { "action_name" : "assist",
     "id" : "77",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 12,
     "occurences" : 1,
@@ -5984,10 +5585,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "78",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 12,
     "occurences" : 1,
@@ -6000,10 +5600,9 @@
   },
   { "action_name" : "big_chance_created",
     "id" : "79",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 12,
     "occurences" : 1,
@@ -6016,10 +5615,9 @@
   },
   { "action_name" : "goal_scored_team",
     "id" : "71",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 12,
     "occurences" : 1,
@@ -6032,10 +5630,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "70",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 11,
     "occurences" : 1,
@@ -6048,10 +5645,9 @@
   },
   { "action_name" : "long_pass",
     "id" : "67",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 11,
     "occurences" : 1,
@@ -6064,10 +5660,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "68",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 11,
     "occurences" : 1,
@@ -6080,10 +5675,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "33",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 7,
     "occurences" : 2,
@@ -6096,10 +5690,9 @@
   },
   { "action_name" : "interception",
     "id" : "25",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 7,
     "occurences" : 1,
@@ -6112,10 +5705,9 @@
   },
   { "action_name" : "starting_11",
     "id" : "1",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 3,
     "occurences" : 1,
@@ -6128,10 +5720,9 @@
   },
   { "action_name" : "successful_pass",
     "id" : "2",
-    "league" : {
-        "name" : "Bundesliga",
-        "season" : "2013/2014",
-    },
+    "league" : { "name" : "Bundesliga",
+        "season" : "2013/2014"
+      },
     "match_id" : "3818",
     "minutes" : 3,
     "occurences" : 1,
