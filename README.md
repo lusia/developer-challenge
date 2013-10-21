@@ -32,7 +32,7 @@ We will of course only use your work with your permission and you are free to us
 
 **Data:**
 
-First of all, the main premise of our game, is that each football player earn points in realtime in our game, whenever they do some kind of action in real life. Some of the actions could be: "Sucessful pass", "Goal" etc. In this repository, data is provided about a single team (Schalcke 04) playing single match in the Bundesliga.
+First of all, the main premise of our game, is that each football player earn points in realtime in our game, whenever they do some kind of action in real life. Some of the actions could be: "Sucessful pass", "Goal" etc. In this repository, data is provided about a single team (Schalke 04) playing single match in the Bundesliga.
 
 The data is structured as a list of events in the following form (annontated with comments here for clarity):
 
