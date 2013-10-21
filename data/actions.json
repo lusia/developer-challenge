@@ -803,7 +803,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 93,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -818,7 +823,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 83,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -833,7 +843,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 82,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -848,7 +863,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 80,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -863,7 +883,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 78,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -878,7 +903,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 78,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -893,7 +923,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 77,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -908,7 +943,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 73,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -923,7 +963,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 73,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -938,7 +983,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3825",
+    "match" : { "away_score" : 3,
+        "away_squad" : "Hamburger SV",
+        "home_score" : 3,
+        "home_squad" : "FC Schalke 04",
+        "played_on" : 1376235000000
+      },
     "minutes" : 70,
     "occurences" : 1,
     "period" : "SecondHalf",
