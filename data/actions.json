@@ -1,3 +1,4 @@
+
 [ { "action_name" : "successful_pass",
     "id" : "9392",
     "league" : { "name" : "Bundesliga",
@@ -803,11 +804,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 93,
     "occurences" : 1,
@@ -823,11 +824,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 83,
     "occurences" : 1,
@@ -843,11 +844,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 82,
     "occurences" : 1,
@@ -863,11 +864,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 80,
     "occurences" : 2,
@@ -883,11 +884,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 78,
     "occurences" : 1,
@@ -903,11 +904,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 78,
     "occurences" : 1,
@@ -923,11 +924,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 77,
     "occurences" : 1,
@@ -943,11 +944,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 73,
     "occurences" : 1,
@@ -963,11 +964,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 73,
     "occurences" : 1,
@@ -983,11 +984,11 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match" : { "away_score" : 3,
-        "away_squad" : "Hamburger SV",
+    "match" : { "away_score" : 2,
+        "away_squad" : "VfB Stuttgart",
         "home_score" : 3,
-        "home_squad" : "FC Schalke 04",
-        "played_on" : 1376235000000
+        "home_squad" : "1. FSV Mainz 05",
+        "played_on" : 1376227800000
       },
     "minutes" : 70,
     "occurences" : 1,
@@ -1003,7 +1004,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 94,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1018,7 +1024,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 94,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1033,7 +1044,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 60,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1048,7 +1064,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 56,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1063,7 +1084,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 50,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1078,7 +1104,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 50,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1093,7 +1124,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 46,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1108,7 +1144,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1123,7 +1164,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 41,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1138,7 +1184,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 30,
     "occurences" : 4,
     "period" : "FirstHalf",
@@ -1153,7 +1204,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 24,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1168,7 +1224,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 19,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1183,7 +1244,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 19,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -1198,7 +1264,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 17,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1213,7 +1284,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 16,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -1228,7 +1304,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 14,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1243,7 +1324,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1258,7 +1344,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 7,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1273,7 +1364,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 7,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1288,7 +1384,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3821",
+    "match" : { "away_score" : 1,
+        "away_squad" : "SV Werder Bremen",
+        "home_score" : 0,
+        "home_squad" : "Eintracht Braunschweig",
+        "played_on" : 1376152200000
+      },
     "minutes" : 0,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -1303,7 +1404,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 92,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1318,7 +1424,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 94,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1333,7 +1444,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 93,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1348,7 +1464,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 93,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1363,7 +1484,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 93,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1378,7 +1504,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 91,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1393,7 +1524,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 91,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1408,7 +1544,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 90,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1423,7 +1564,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 91,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1438,7 +1584,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 87,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -1453,7 +1604,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 86,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1468,7 +1624,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 86,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1483,7 +1644,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 86,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -1498,7 +1664,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 86,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1513,7 +1684,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 86,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1528,7 +1704,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 86,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1543,7 +1724,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 84,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1558,7 +1744,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 84,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1573,7 +1764,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 84,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1588,7 +1784,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 82,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -1603,7 +1804,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 82,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1618,7 +1824,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 82,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1633,7 +1844,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 81,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1648,7 +1864,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 80,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1663,7 +1884,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 79,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1678,7 +1904,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 79,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1693,7 +1924,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 77,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1708,7 +1944,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 79,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1723,7 +1964,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 79,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1738,7 +1984,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 79,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1753,7 +2004,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 79,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -1768,7 +2024,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 77,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1783,7 +2044,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 77,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1798,7 +2064,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 75,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -1813,7 +2084,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 75,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1828,7 +2104,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 74,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1843,7 +2124,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 73,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1858,7 +2144,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 73,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1873,7 +2164,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 73,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1888,7 +2184,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 72,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1903,7 +2204,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 72,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -1918,7 +2224,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 71,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1933,7 +2244,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 70,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1948,7 +2264,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 71,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -1963,7 +2284,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 71,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1978,7 +2304,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 68,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -1993,7 +2324,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 68,
     "occurences" : 3,
     "period" : "SecondHalf",
@@ -2008,7 +2344,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 68,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2023,7 +2364,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 68,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2038,7 +2384,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 69,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2053,7 +2404,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 68,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2068,7 +2424,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 68,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2083,7 +2444,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 66,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2098,7 +2464,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 66,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2113,7 +2484,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 64,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2128,7 +2504,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 63,
     "occurences" : 3,
     "period" : "SecondHalf",
@@ -2143,7 +2524,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 61,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2158,7 +2544,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 61,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2173,7 +2564,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 61,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -2188,7 +2584,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 59,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2203,7 +2604,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 58,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2218,7 +2624,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 58,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2233,7 +2644,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 58,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2248,7 +2664,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 59,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2263,7 +2684,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 57,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2278,7 +2704,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 58,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2293,7 +2724,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 56,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2308,7 +2744,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 56,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -2323,7 +2764,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 57,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2338,7 +2784,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 55,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2353,7 +2804,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 55,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2368,7 +2824,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 56,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2383,7 +2844,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 54,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2398,7 +2864,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 54,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -2413,7 +2884,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 51,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2428,7 +2904,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 52,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2443,7 +2924,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 52,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2458,7 +2944,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 51,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2473,7 +2964,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 51,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2488,7 +2984,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 52,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2503,7 +3004,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 50,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2518,7 +3024,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 51,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2533,7 +3044,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 49,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2548,7 +3064,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 49,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -2563,7 +3084,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2578,7 +3104,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 47,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -2593,7 +3124,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2608,7 +3144,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 46,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2623,7 +3164,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 46,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2638,7 +3184,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 46,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2653,7 +3204,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 46,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -2668,7 +3224,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2683,7 +3244,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 47,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -2698,7 +3264,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2713,7 +3284,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2728,7 +3304,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2743,7 +3324,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2758,7 +3344,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 43,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2773,7 +3364,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 43,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2788,7 +3384,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2803,7 +3404,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 43,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2818,7 +3424,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 42,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2833,7 +3444,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 42,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2848,7 +3464,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2863,7 +3484,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2878,7 +3504,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2893,7 +3524,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2908,7 +3544,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2923,7 +3564,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2938,7 +3584,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 39,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2953,7 +3604,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 39,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2968,7 +3624,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 39,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2983,7 +3644,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 38,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -2998,7 +3664,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 37,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3013,7 +3684,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 38,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3028,7 +3704,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 38,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3043,7 +3724,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 38,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3058,7 +3744,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 37,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3073,7 +3764,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 35,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3088,7 +3784,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 36,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3103,7 +3804,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 35,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3118,7 +3824,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 36,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3133,7 +3844,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 35,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3148,7 +3864,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 35,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3163,7 +3884,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 35,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3178,7 +3904,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 35,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3193,7 +3924,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 34,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3208,7 +3944,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 34,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3223,7 +3964,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 33,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3238,7 +3984,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 34,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3253,7 +4004,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 32,
     "occurences" : 4,
     "period" : "FirstHalf",
@@ -3268,7 +4024,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 33,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3283,7 +4044,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 32,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -3298,7 +4064,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 31,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3313,7 +4084,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 31,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -3328,7 +4104,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 29,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3343,7 +4124,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 29,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3358,7 +4144,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 26,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3373,7 +4164,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 27,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3388,7 +4184,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 27,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3403,7 +4204,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 27,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3418,7 +4224,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 27,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3433,7 +4244,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 26,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3448,7 +4264,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 26,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3463,7 +4284,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 26,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3478,7 +4304,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 25,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3493,7 +4324,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 24,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3508,7 +4344,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 24,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3523,7 +4364,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 23,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3538,7 +4384,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 22,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3553,7 +4404,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 22,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3568,7 +4424,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 18,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3583,7 +4444,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 17,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3598,7 +4464,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 18,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -3613,7 +4484,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 16,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3628,7 +4504,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 16,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3643,7 +4524,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 15,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3658,7 +4544,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 15,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -3673,7 +4564,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 14,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3688,7 +4584,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 15,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3703,7 +4604,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 15,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3718,7 +4624,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 15,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3733,7 +4644,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 13,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3748,7 +4664,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 13,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3763,7 +4684,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 13,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -3778,7 +4704,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 13,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3793,7 +4724,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 13,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -3808,7 +4744,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3823,7 +4764,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 10,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3838,7 +4784,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 11,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3853,7 +4804,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 10,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3868,7 +4824,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 9,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3883,7 +4844,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 9,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3898,7 +4864,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 9,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3913,7 +4884,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 9,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -3928,7 +4904,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 9,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -3943,7 +4924,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 9,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3958,7 +4944,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 6,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3973,7 +4964,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 7,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -3988,7 +4984,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 6,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -4003,7 +5004,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 6,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4018,7 +5024,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 6,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -4033,7 +5044,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 6,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -4048,7 +5064,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 4,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4063,7 +5084,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 3,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4078,7 +5104,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 3,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4093,7 +5124,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 3,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4108,7 +5144,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 2,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4123,7 +5164,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 2,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4138,7 +5184,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 2,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4153,7 +5204,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 2,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4168,7 +5224,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 1,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4183,7 +5244,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3822",
+    "match" : { "away_score" : 4,
+        "away_squad" : "Borussia Dortmund",
+        "home_score" : 0,
+        "home_squad" : "FC Augsburg",
+        "played_on" : 1376141400000
+      },
     "minutes" : 1,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4198,7 +5264,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 1,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -4213,7 +5284,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3823",
+    "match" : { "away_score" : 0,
+        "away_squad" : "VfL Wolfsburg",
+        "home_score" : 2,
+        "home_squad" : "Hannover 96",
+        "played_on" : 1376141400000
+      },
     "minutes" : 0,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4228,7 +5304,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3819",
+    "match" : { "away_score" : 2,
+        "away_squad" : "1. FC Nürnberg",
+        "home_score" : 2,
+        "home_squad" : "1899 Hoffenheim",
+        "played_on" : 1376141400000
+      },
     "minutes" : 0,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4243,7 +5324,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3820",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Sport-Club Freiburg",
+        "home_score" : 3,
+        "home_squad" : "Bayer 04 Leverkusen",
+        "played_on" : 1376141400000
+      },
     "minutes" : 1,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4258,7 +5344,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 93,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4273,7 +5364,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 93,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4288,7 +5384,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 93,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4303,7 +5404,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 92,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4318,7 +5424,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 92,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4333,7 +5444,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 90,
     "occurences" : 3,
     "period" : "SecondHalf",
@@ -4348,7 +5464,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 90,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4363,7 +5484,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 88,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4378,7 +5504,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 86,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4393,7 +5524,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 86,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4408,7 +5544,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 85,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4423,7 +5564,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 85,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4438,7 +5584,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 85,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4453,7 +5604,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 84,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4468,7 +5624,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 84,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4483,7 +5644,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 84,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4498,7 +5664,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 83,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4513,7 +5684,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 83,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4528,7 +5704,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 83,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4543,7 +5724,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 81,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4558,7 +5744,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 79,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4573,7 +5764,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 76,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4588,7 +5784,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 73,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4603,7 +5804,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 73,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4618,7 +5824,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 69,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4633,7 +5844,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 69,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4648,7 +5864,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 67,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4663,7 +5884,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 67,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4678,7 +5904,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 67,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4693,7 +5924,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 66,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4708,7 +5944,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 65,
     "occurences" : 5,
     "period" : "SecondHalf",
@@ -4723,7 +5964,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 63,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4738,7 +5984,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 63,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4753,7 +6004,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 60,
     "occurences" : 5,
     "period" : "SecondHalf",
@@ -4768,7 +6024,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 60,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4783,7 +6044,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 60,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4798,7 +6064,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 57,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4813,7 +6084,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 53,
     "occurences" : 3,
     "period" : "SecondHalf",
@@ -4828,7 +6104,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 53,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4843,7 +6124,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 52,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4858,7 +6144,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 52,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4873,7 +6164,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 50,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4888,7 +6184,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 50,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4903,7 +6204,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 50,
     "occurences" : 2,
     "period" : "SecondHalf",
@@ -4918,7 +6224,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 50,
     "occurences" : 4,
     "period" : "SecondHalf",
@@ -4933,7 +6244,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 48,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4948,7 +6264,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 47,
     "occurences" : 1,
     "period" : "SecondHalf",
@@ -4963,7 +6284,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 46,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4978,7 +6304,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -4993,7 +6324,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5008,7 +6344,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 44,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5023,7 +6364,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 43,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5038,7 +6384,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 43,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5053,7 +6404,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 43,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5068,7 +6424,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 42,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5083,7 +6444,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 42,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5098,7 +6464,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5113,7 +6484,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 40,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5128,7 +6504,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 39,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5143,7 +6524,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 39,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5158,7 +6544,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 39,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5173,7 +6564,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 38,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -5188,7 +6584,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 36,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5203,7 +6604,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 35,
     "occurences" : 4,
     "period" : "FirstHalf",
@@ -5218,7 +6624,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 34,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5233,7 +6644,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 34,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5248,7 +6664,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 34,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5263,7 +6684,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 32,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5278,7 +6704,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 30,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5293,7 +6724,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 30,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5308,7 +6744,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 30,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5323,7 +6764,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 30,
     "occurences" : 4,
     "period" : "FirstHalf",
@@ -5338,7 +6784,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 25,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5353,7 +6804,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 25,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5368,7 +6824,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 24,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5383,7 +6844,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 24,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5398,7 +6864,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 24,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5413,7 +6884,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 24,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -5428,7 +6904,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 24,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5443,7 +6924,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 23,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5458,7 +6944,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 23,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5473,7 +6964,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 21,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5488,7 +6984,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 20,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5503,7 +7004,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 20,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5518,7 +7024,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 19,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5533,7 +7044,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 19,
     "occurences" : 3,
     "period" : "FirstHalf",
@@ -5548,7 +7064,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 19,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5563,7 +7084,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 19,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5578,7 +7104,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 16,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5593,7 +7124,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 15,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5608,7 +7144,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5623,7 +7164,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5638,7 +7184,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5653,7 +7204,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5668,7 +7224,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 12,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5683,7 +7244,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 11,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5698,7 +7264,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 11,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5713,7 +7284,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 11,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5728,7 +7304,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 7,
     "occurences" : 2,
     "period" : "FirstHalf",
@@ -5743,7 +7324,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 7,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5758,7 +7344,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 3,
     "occurences" : 1,
     "period" : "FirstHalf",
@@ -5773,7 +7364,12 @@
     "league" : { "name" : "Bundesliga",
         "season" : "2013/2014"
       },
-    "match_id" : "3818",
+    "match" : { "away_score" : 1,
+        "away_squad" : "Borussia Mönchengladbach",
+        "home_score" : 3,
+        "home_squad" : "FC Bayern München",
+        "played_on" : 1376073000000
+      },
     "minutes" : 3,
     "occurences" : 1,
     "period" : "FirstHalf",
