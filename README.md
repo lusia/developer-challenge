@@ -31,6 +31,7 @@ We will of course only use your work with your permission and you are free to us
 2. Should use Javascript
 
 **Suggestions**:
+
 You are free to visualize the data in any way you like, but here a few suggestions for frameworks that might help you:
 
 1. http://d3js.org/
