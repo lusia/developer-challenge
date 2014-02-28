@@ -28,7 +28,14 @@ We will of course only use your work with your permission and you are free to us
 **Requirements**:
 
 1. Use the data provided in the data directory.
-1. Use d3.js for the visualisation (http://d3js.org/).
+2. Should use Javascript
+
+**Suggestions**:
+You are free to visualize the data in any way you like, but here a few suggestions for frameworks that might help you:
+
+1. http://d3js.org/
+2. http://www.chartjs.org/
+3. http://www.jqplot.com/
 
 **Data:**
 
