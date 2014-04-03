@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/underscore/underscore.js"></script>
+    <script src="bower_components/chartjs/Chart.min.js"></script>
+    <script src="bower_components/handlebars/handlebars.min.js"></script>
+    <script src="bower_components/underscore.string/dist/underscore.string.min.js"></script>
+    <script src="js/team_parser.js"></script>
+    <script src="js/points_collector.js"></script>
+    <script src="js/bar_chart.js"></script>
+    <script src="js/line_chart.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/team_table.js"></script>
+    <script src="js/xlabel_generator.js"></script>
+    <script src="js/legend_content.js"></script>
+    <script src="js/color_creator.js"></script>
+    <script>
+        $(function () {
+            App.run();
+        });
+    </script>
+
+
+    <link rel="stylesheet" href="style/bootstrap.min.css">
+    <link rel="stylesheet" href="style/css.css">
+    <title>Developer Challenge</title>
+</head>
+<body>
+<div id="content" class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center">RESULTS</h1>
+        </div>
+    </div>
+    <div class="row content_with_table_and_diagram">
+        <div id="team-summary" class="col-md-6"></div>
+        <div class="col-md-6 chart_container">
+            <canvas id="bar-chart"></canvas>
+        </div>
+    </div>
+    <div id="graph_legend" class="row dn">
+        <div class="col-md-4 col-md-offset-4">
+            <h3>Legend</h3>
+            <table class="table">
+                <tr>
+                    <th>Color</th>
+                    <th>Player</th>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 line_chart_container">
+            <canvas id="linechart_with_results"></canvas>
+        </div>
+    </div>
+</div>
+
+<script id="template-team-summary" type="text/x-handlebars-template">
+    <table class="table table-hover">
+        <thead>
+        <tr>
+            <th>
+                <form><input id="players-mark-all" class="" type="checkbox" name="check"></form>
+            </th>
+            <th>Name <span data-sort-key="name|up" class="glyphicon glyphicon-arrow-up js-table-order"></span>
+                <span data-sort-key="name|down" class="glyphicon glyphicon-arrow-down js-table-order"></span></th>
+            <th>Points <span data-sort-key="point_sum|up" data-sort-direction="up" class="glyphicon glyphicon-arrow-up js-table-order"></span>
+                <span data-sort-key="point_sum|down"  class="glyphicon glyphicon-arrow-down js-table-order"></span></th>
+        </tr>
+        </thead>
+        <tbody>
+        {{#each team}}
+        <tr>
+            <td>
+                <form><input class="checkbox" type="checkbox" name="check" value="{{player_id}}"></form>
+            </td>
+            <td>{{name}}</td>
+            <td>{{point_sum}}</td>
+        </tr>
+        {{/each}}
+        </tbody>
+    </table>
+</script>
+<script id="template-chart-legend" type="text/x-handlebars-template">
+    {{#each players}}
+        <tr>
+            <td style="background-color: rgb({{chart_color.[0]}}, {{chart_color.[1]}}, {{chart_color.[2]}})"></td>
+            <td>{{name}}</td>
+        </tr>
+    {{/each}}
+    </script>
+</body>
+</html>
