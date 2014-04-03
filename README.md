@@ -1,3 +1,11 @@
+**How to run:**
+
+1. Clone the repo
+2. Run bower install
+3. Run simple web server (for example: php -S localhost:8080)
+4. Open http://localhost:8080/index.html in your browser 
+
+
 Ultimate Manager developer challenge
 ====================================
 At Ultimate Manager we want to challenge the way people consume football by creating an awesome second screen experience(1).
