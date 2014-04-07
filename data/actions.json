@@ -377,7 +377,7 @@
     "player_name" : "Christian Clemens",
     "squad" : "FC Schalke 04",
     "timestamp" : 1376239062000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "8864",
@@ -697,7 +697,7 @@
     "player_name" : "Christian Clemens",
     "squad" : "FC Schalke 04",
     "timestamp" : 1376236422000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "8502",
@@ -757,7 +757,7 @@
     "player_name" : "Christian Clemens",
     "squad" : "FC Schalke 04",
     "timestamp" : 1376235732000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "goal_scored_team",
     "id" : "8285",
@@ -817,7 +817,7 @@
     "player_name" : "Cacau",
     "squad_id" : "840",
     "timestamp" : 1376234512000,
-    "total_points" : -15000
+    "total_points" : 15000
   },
   { "action_name" : "shot_on_target",
     "id" : "8115",
@@ -897,7 +897,7 @@
     "player_name" : "Cacau",
     "squad_id" : "840",
     "timestamp" : 1376233625000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "8007",
@@ -1457,7 +1457,7 @@
     "player_name" : "Ricardo Rodriguez",
     "squad_id" : "841",
     "timestamp" : 1376148059000,
-    "total_points" : -15000
+    "total_points" : 15000
   },
   { "action_name" : "match_lost",
     "id" : "6262",
@@ -1477,7 +1477,7 @@
     "player_name" : "Giovanni Sio",
     "squad_id" : "841",
     "timestamp" : 1376148059000,
-    "total_points" : -15000
+    "total_points" : 15000
   },
   { "action_name" : "interception",
     "id" : "6170",
@@ -1557,7 +1557,7 @@
     "player_name" : "Giovanni Sio",
     "squad_id" : "841",
     "timestamp" : 1376147870000,
-    "total_points" : -3000
+    "total_points" : 3000
   },
   { "action_name" : "match_won",
     "id" : "5977",
@@ -1737,7 +1737,7 @@
     "player_name" : "Ricardo Rodriguez",
     "squad_id" : "841",
     "timestamp" : 1376147507000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "goal_against_team",
     "id" : "5680",
@@ -1757,7 +1757,7 @@
     "player_name" : "Giovanni Sio",
     "squad_id" : "841",
     "timestamp" : 1376147507000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "5625",
@@ -2697,7 +2697,7 @@
     "player_name" : "David Abraham",
     "squad_id" : "806",
     "timestamp" : 1376145940000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "4297",
@@ -2857,7 +2857,7 @@
     "player_name" : "David Abraham",
     "squad_id" : "806",
     "timestamp" : 1376145769000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "4087",
@@ -3557,7 +3557,7 @@
     "player_name" : "Ömer Toprak",
     "squad_id" : "807",
     "timestamp" : 1376143787000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "3182",
@@ -4457,7 +4457,7 @@
     "player_name" : "Ricardo Rodriguez",
     "squad_id" : "841",
     "timestamp" : 1376142434000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "successful_pass",
     "id" : "1903",
@@ -6477,7 +6477,7 @@
     "player_name" : "Franck Ribéry",
     "squad_id" : "833",
     "timestamp" : 1376075970000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "goal_against_team",
     "id" : "406",
@@ -6497,7 +6497,7 @@
     "player_name" : "Manuel Neuer",
     "squad_id" : "833",
     "timestamp" : 1376075970000,
-    "total_points" : -10000
+    "total_points" : 10000
   },
   { "action_name" : "dribble_won",
     "id" : "386",
@@ -6937,7 +6937,7 @@
     "player_name" : "Franck Ribéry",
     "squad_id" : "833",
     "timestamp" : 1376074903000,
-    "total_points" : -3000
+    "total_points" : 3000
   },
   { "action_name" : "successful_pass",
     "id" : "195",

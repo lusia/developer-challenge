@@ -63,7 +63,7 @@ LineChart = function () {
 				yvalues.push(0);
 			}
 			_.each(player.points, function (point) {
-				yvalues[point.minutes] = yvalues[point.minutes] + Math.abs(point.amount);
+				yvalues[point.minutes] = yvalues[point.minutes] + point.amount;
 			});
 
 			return {

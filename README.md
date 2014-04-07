@@ -3,7 +3,7 @@
 1. Clone the repo
 2. Run bower install
 3. Run simple web server (for example: php -S localhost:8080)
-4. Open http://localhost:8080/index.html in your browser 
+4. Open http://localhost:8080/index.html in your browser
 
 
 Ultimate Manager developer challenge
